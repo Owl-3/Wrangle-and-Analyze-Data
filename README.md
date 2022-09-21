@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2019 Bay Wheels Ride Data Exploration
 ## by Odira Dancan
 
@@ -35,3 +36,4 @@
 >- Subscribers record higher bike usage across the week than customers.
 >- Average subscriber age is slightly higher than customer age.
 >- The shorter duration usage for subscribers may imply higher use for work when they're going to work suggesting they might be using the bikes mainly for work communitng. The subscribers also seems to be open to sharing, perhaps to reduce cost.
+=======
